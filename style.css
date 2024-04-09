@@ -8,13 +8,16 @@ div{
  width: 40px;
  background-color: aqua;
  display: inline-block;
+ margin-bottom: -5px;
 }
 .container{
     height:930px;
     width: 1850px;
     background-color: pink;
     display: flexbox;
-    flex-wrap: wrap;
     
  
+}
+.column{
+    
 }

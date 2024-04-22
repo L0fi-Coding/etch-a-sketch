@@ -21,3 +21,11 @@ div{
 .column{
     
 }
+.top{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 1850px;
+    background-color: green;
+    height:20px;
+}
